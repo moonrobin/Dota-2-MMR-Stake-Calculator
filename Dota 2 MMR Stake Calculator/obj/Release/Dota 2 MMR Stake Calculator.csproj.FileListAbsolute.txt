@@ -1,0 +1,7 @@
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\bin\Release\Dota 2 MMR Stake Calculator.exe
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\bin\Release\Dota 2 MMR Stake Calculator.pdb
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\obj\Release\Dota_2_MMR_Stake_Calculator.MainForm.resources
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\obj\Release\Dota_2_MMR_Stake_Calculator.Properties.Resources.resources
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\obj\Release\Dota 2 MMR Stake Calculator.csproj.GenerateResource.Cache
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\obj\Release\Dota 2 MMR Stake Calculator.exe
+F:\Users\Robin\Documents\Visual Studio 2012\Projects\Dota 2 MMR Stake Calculator\Dota 2 MMR Stake Calculator\obj\Release\Dota 2 MMR Stake Calculator.pdb
